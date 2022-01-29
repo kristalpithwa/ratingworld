@@ -1,0 +1,27 @@
+export const Colors = {
+  transparent: 'transparent',
+  black: 'black',
+  black1: '#020203',
+  black2: '#262424',
+  white: 'white',
+  whitef9: '#f9f9f9',
+  whiteFF: '#ffffff',
+  whiteFA: '#fafafa',
+  red: '#940404',
+  gray: '#a2a2a2',
+  Yellow: '#e6d500',
+  Purple: '#6050d9',
+  orange: '#ed7d31',
+  blue: '#113CFC',
+  purple36: '#360738',
+  purple41: '#692c6c',
+  purple53: '#531c55',
+  grayA4: '#a4a4a4',
+  gray9c: '#9c9c9c',
+  grayEb: '#ebebeb',
+  lightGreen: '#61bc47',
+  themePlaceHolder: '#bbc2cc',
+  placeholderTextColor: '#a4a4a4',
+};
+
+export default {Colors};
